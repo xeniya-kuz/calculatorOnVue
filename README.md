@@ -1,2 +1,24 @@
-# calculatorOnVue
-Простой калькулятор на Вью, который выполняет операции сложения, вычитания, умножения, делания и возведения в степень. При делении на ноль выдает ошибку, позволяет вводить только цифры как с экранной клавиатуры, так и с обычной. Экранная клавиатура простая и скрываемая. Также реализованы юнит тесты для функционала калькулятора.
+# first
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
